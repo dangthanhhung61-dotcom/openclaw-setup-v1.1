@@ -210,7 +210,7 @@ It downloads the wizard, starts the local server, and opens the Setup UI in your
 Use this if you specifically want the newest code directly from GitHub:
 
 ```bash
-npx github:tuanminhhole/openclaw-setup
+npx github:dangthanhhung61-dotcom/openclaw-setup-v1.1
 ```
 
 > **Git is required for this method.** Install [Git](https://git-scm.com/downloads) and make sure the `git` command works in your terminal first; otherwise npm cannot download the GitHub repository.

@@ -210,7 +210,7 @@ Lệnh này tự tải wizard, chạy server và **mở giao diện Setup** trê
 Dùng cách này nếu bạn muốn lấy code mới nhất trực tiếp từ GitHub:
 
 ```bash
-npx github:tuanminhhole/openclaw-setup
+npx github:dangthanhhung61-dotcom/openclaw-setup-v1.1
 ```
 
 > **Cách này bắt buộc máy phải cài Git.** Hãy cài [Git](https://git-scm.com/downloads) và kiểm tra lệnh `git` chạy được trong terminal trước; nếu thiếu Git, npm không thể tải repository từ GitHub.
